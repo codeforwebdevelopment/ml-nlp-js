@@ -261,5 +261,17 @@ Please open an issue with relevant details.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
+Text data analysis using JS
+most machine learning is written in python
 
+NLP with JS
+help app users decode text messages from potential interests. After analyzing the text, the API returns either “sympathetic friend” or “passionate lover” back to the user to identify if the relationship will end up being platonic or romantic.
 
+https://www.codementor.io/@sergeycher/how-to-do-text-classification-with-javascript-1nvjllnib0?
+
+Natural.js- package for Node.js that helps deal with natural language. it can do a sentiment analysis from the box and without any setup.
+The package supports the Naive Bayes classifier and logistic regression.
+
+Brain.js
+This library helps you to build neural networks.
+They reflect the behavior of biological neurons that are great at recognizing patterns.
