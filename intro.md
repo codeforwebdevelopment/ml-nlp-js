@@ -1,3 +1,8 @@
+	machine learning in trading 
+https://www.quantinsti.com/
+https://quantra.quantinsti.com/learning-track/machine-learning-deep-learning-trading-2
+Unsupervised learning algorithms and NLP models such as Word2Vec, BERT and XGBoost.
+
 ML-
 
 ML is a subfield in Artificial intelligence. It involves learning models which allow the program to make predictions on data. There are two types of algorithms that are present regular and machine.
